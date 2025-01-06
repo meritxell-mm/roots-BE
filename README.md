@@ -1,4 +1,4 @@
-# Roots API REST with Spring Boot
+# Roots API REST with Spring Boot - Ongoing project
 
 ## Description
 
